@@ -1,5 +1,5 @@
 # Landing-Page
- HTML e CSS, responsivo
+ <strong>HTML e CSS, responsivo </strong>
  Nesta landing-Page usei o html semântico
  
  No CSS, importei do google fonts a fonte Poppins https://fonts.google.com/specimen/Poppins
